@@ -27,10 +27,12 @@ Across these two metrics, the top 2 products are the 27 in monitor and apple air
 In both revenue and number of orders, NA contributes the most (51.69% of all revenue, 51.8% all orders), followed by EMEA (29.45% revenue, 29.24% orders), APAC (12.14% revenue, 13% orders), and LATAM (6.73% revenue, 5.96% orders). 
 However, in terms of AOV, APAC has the highest average AOV across all 4 years (7.07% higher than average across all regions). LATAM has the lowest (11.33% lower than average, 28.48% lower in 2022 and 14.74% lower in 2021)  
 ## Loyalty Program
-Across all metrics, until 2021, non-loyalty members perform better than loyalty members by far. 
-Starting from 2021, loyalty members contribute more across all metrics compared to non-loyalty members until late 2022, where their performance dipped below non-loyalty members again. 
+During 2019 and 2020, non-loyalty members contributed more toward revenue (Average 80.16%) and order count (75.32%) compared to loyalty members (19.62% and 24.68% respectively). 
+In 2021, loyalty members contribute more to revenue (52.74%) and order count (54.49%) than non-loyalty members. 
+While loyalty members continued to lead in revenue (55.44%) and order count (51.83%) in 2022, after September 2022, loyalty member metrics fell below non-loyalty again.
 Looking across 4 years, revenue, AOV,and order count have increased for loyalty members, but decreased for non-loyalty members. 
 Loyalty program is worth keeping around for longer to continue to monitor trends. 
 
+# Deeper Dive
 
 # Recommendations
