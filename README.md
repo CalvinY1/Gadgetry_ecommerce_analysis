@@ -26,7 +26,7 @@ The weakest months are October and February:
 ## Product Performance
 **By revenue**, the top 4 performing products are:
 * 27 in Gaming Monitor
-* Applie Airpod Headphones
+* Apple Airpod Headphones
 * Macbook Air Laptop
 * ThinkPad Laptop
 
@@ -53,7 +53,7 @@ Revenue and Order Volume Trends:
 
 AOV Trends:
 * **APAC has the highest AOV**, averaging **7.07% above the global regional average** across all four years.
-* **LATAM has the lowest AOV**, at **11.33% below the global average** overall, with especially large gaps in:
+* **LATAM has the lowest AOV**, at **11.33% below the global average** overall, with significantly lower AOV in:
   * 2021: 14.74% below average
   * 2022: 28.48% below average
 
@@ -64,7 +64,7 @@ From 2019 to 2020, **non-loyalty members were the primary drivers of both revenu
 * Post September 2022: During the last months of 2022, the trend reversed, with non-loyalty members once again contributing more to **revenue (58.92%) and order volume (59.02%)**.
 
 Looking at the overall 4-year trend:
-* Loyalty members have shown **consistent growth in revenue (626.47%), order volume (511.25%), and AOV (18.87%)**.
+* Loyalty members have shown an **overall growth in revenue (626.47%), order volume (511.25%), and AOV (18.87%)**.
 * Non-loyalty members have declined across the same metrics, decreasing by **32.31% in revenue, 26.33% in order volume, and 8.1% in AOV**.  
 
 
