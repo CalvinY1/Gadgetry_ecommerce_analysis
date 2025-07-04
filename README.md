@@ -69,5 +69,9 @@ Looking at the overall 4-year trend:
 
 
 # Deeper Dive
+## APAC leads all regions in AOV, driven by a higher proportion of premium product sales
+Upon closer analysis, we found that a greater share of APAC's total orders consist of high-value products, specifically the Macbook Air Laptop, ThinkPad Laptop, Apple iPhone, and 27 in 4K Gaming Monitor. These four products account for a larger percentage of APAC's orders compared to other regions, ranging from 9% to 60% higher. Interestingly, while these products are more prominent in APAC's order mix, their average selling prices are approximately 5.24% lower than in other regions. 
+
+Despite the higher AOV, APAC's overall revenue trails behind NA and EMEA, largely due to lower overall order volume. 
 
 # Recommendations
