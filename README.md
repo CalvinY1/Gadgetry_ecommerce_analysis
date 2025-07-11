@@ -1,6 +1,10 @@
 # Gadgetry E-commerce Analysis
 
 # Project Overview
+<p alight="center">
+  <img src=images/gadgetrylogo.png>
+</p>
+
 ## Company Background
 Gadgetry, founded in 2018, is a global e-commerce company that sells popular electronics products through their online website and mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad.
 
@@ -14,8 +18,15 @@ This project aims to provide insights and recommendations to inform sales and ma
 * Product Performance - Analysis of sales metrics across products
 * Global Reach - Analysis of sales metrics across global regions
 * Loyalty Program Performance - Assessment of loyalty program's effectiveness
+
+This analysis focuses on sales data from 2019 to 2022. 
   
 # Summary of Insights
+## Overall Trends
+Sales showed a strong upward trajectory through 2020, peaking in **December with 1.2M in monthly revenue**. The **most significant month-over-month (MoM) growth occurred in March 2020, with a 41.26% increase** in revenue, likely influced by pandemic-driven consumer behavior.
+
+Performance remained strong throughout **2020 and 2021, with both years more than doubling 2019 revenue**. However, **revenue declined in 2022, returning to 2019 levels by year-end**. **October 2022 marked the largest MoM decline, with a 39% decrease** compared to the previous month. While total revenue for 2022 still exceeded that of 2019, the last three months of the year recorded the lowest monthly revenues in the four-year period. 
+
 ## Seasonal Sales Trends
 December consistently sees the strongest performance, with an average **29.17% increase in revenue** and **29.96% increase in order volume** compared to the previous month. 
 
@@ -70,8 +81,23 @@ Looking at the overall 4-year trend:
 
 # Deeper Dive
 ## APAC leads all regions in AOV, driven by a higher proportion of premium product sales
-Upon closer analysis, we found that a greater share of APAC's total orders consist of high-value products, specifically the Macbook Air Laptop, ThinkPad Laptop, Apple iPhone, and 27 in 4K Gaming Monitor. These four products account for a larger percentage of APAC's orders compared to other regions, ranging from 9% to 60% higher. Interestingly, while these products are more prominent in APAC's order mix, their average selling prices are approximately 5.24% lower than in other regions. 
+Upon closer analysis, we found that a **greater share of APAC's total orders consist of high-value products**, specifically the Macbook Air Laptop, ThinkPad Laptop, Apple iPhone, and 27 in 4K Gaming Monitor. These **four products account for a larger percentage of APAC's orders compared to other regions**, ranging from **9% to 60% higher**. Interestingly, while these products are more prominent in APAC's order mix, their **average selling prices are approximately 5.24% lower than in other regions**. 
 
-Despite the higher AOV, APAC's overall revenue trails behind NA and EMEA, largely due to lower overall order volume. 
+**Despite the higher AOV, APAC's overall revenue trails behind NA and EMEA**, largely due to **lower overall order volume**. 
+
+## Higher AOV products tend to have higher refund rates
+The **top four products by AOV show notably higher refund rates compared to the overall product average**. In particular, the two highest AOV products stand out with the most significant differences. Across all years:
+* **Macbook Air Laptops** had a refund rate of **11.47%**
+* **ThinkPad Laptops** had a refund rate of **11.8%**
+* **Apple iPhones** had a refund rate of **7.67%**
+* **27in 4K Gaming Monitors** had a refund rate of **6.19%**
+* In contrast, **all other products combined averaged a 4.03% refund rate**
+
+It is worth nothing that **after July 2021, no additional refunds were recorded in the dataset**. While this may affect overall refund rate calculations, the trend of **higher refund rates among high AOV products remains consistent**. 
+
+## Loyalty members have a lower time between orders compared to non-loyalty
+Loyalty program members tend to reorder more frequently, with an average of **124 days** between repeat purchases, compared to **187 days** for non-members.
+
+However, the overall number of repeat customers remains significantly higher among non-loyalty customers (4497) compared to loyalty members (154) across all four years. 
 
 # Recommendations
