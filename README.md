@@ -101,3 +101,38 @@ Loyalty program members tend to reorder more frequently, with an average of **12
 However, the overall number of repeat customers remains significantly higher among non-loyalty customers (4497) compared to loyalty members (154) across all four years. 
 
 # Recommendations
+## Capitalize on December boom, investigate October and February downturns
+December's strong performance aligns with the holiday season, indicating an opportunity to further amplify promotional and marketing efforts during this high revenue period. 
+
+Conversely, underperformance in October and February warrants investigation. 
+* Are these seasonal trends consistent across the broader e-commerce landscape?
+* Were there fewer campaigns or promotions during these months?
+
+Understanding these dips will help identify whether this is an internal issue or part of a wider industry pattern.
+
+## Accelerate growth via top-performing products (27in 4K Gaming Monitor and Apple Airpod Headphones) and strategically bundle items
+The 27in 4K Gaming Monitor and Apple Airpod Headphones account for over 60% of total revenue and order volume. These products represent clear revenue drivers.
+
+It is recommended to:
+* Introduce product bundles featurng these top sellers to drive higher AOV
+* Offer loyalty program incentives, such as loyalty point boosts, to increase visibility of both the products and the loyalty program.
+* Explore strategic bundling of high AOV, lower order volume items (Macbook Air Laptop and ThinkPad Laptop) with low AOV, higher order volume items (Samsung Charging Cable Pack and Samsung Webcam) to boost performance across both categories 
+
+## Continue investing in loyalty program, with close monitoring
+Despite recent dip, the loyalty program has shown promising growth since 2019 and is positively correlated with repeat purchases. 
+
+It is recommended to:
+* Continue supporting the program in the short term while conducitng a cost-benefit analysis to ensure it remains ROI-positive.
+* Closely monitor performance trends to determine whether the recent downturn is temporary or indicative of a longer-term shift.
+
+## Opportunities in APAC, reassess strategy in LATAM
+The APAC region shows strong AOV driven by purchases of premium products, which are priced more competitively compared to other regions.
+
+It is recommended to:
+* Increase marketing investing in APAC to further capture high-value customers.
+* Evaluate feasibility of price adjustments in other markets to replicate APAC's success with high-cost products. 
+
+In contrast, LATAM continues to underperform in both revenue, AOV, and order volume. 
+
+It is recommended to:
+* Reassess go-to-market strategy for LATAM, including pricing, product-market fit, and promotional tactics to better align with regional demand and customer behavior. 
