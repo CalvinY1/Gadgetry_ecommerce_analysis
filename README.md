@@ -6,20 +6,22 @@
 </p>
 
 ## Company Background
-Gadgetry, founded in 2018, is a global e-commerce company that sells popular electronics products through their online website and mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad.
+Gadgetry, founded in 2018, is a global e-commerce company specializing in consumer electronics sold through their online website and mobile app. Over the last few years, top performing products have included devices from Apple, Samsung, and ThinkPad. 
+
+The company is currently focus on analyzing sales trends from 2019 to 2022, a period marked by significant shifts in consumer behavior due to the COVID-19 pandemic, to better understand performance across a uniquely dynamic timeframe. 
 
 ## Data Structure
-The database structure consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,128 records.
+The database comprises four tables: orders, customers, geo_lookup, and order_status, with a total of 108,128 records across all tables.
 ![Alt Text](images/Elist_ERD.png)
 
 ## Project Goals
-This project aims to provide insights and recommendations to inform sales and marketing strategies on the following key areas:
-* Sales Metrics - Focused on Revenue, Average Order Value (AOV), and Order Count
-* Product Performance - Analysis of sales metrics across products
-* Global Reach - Analysis of sales metrics across global regions
-* Loyalty Program Performance - Assessment of loyalty program's effectiveness
+This project aims to deliver actionable insights and recommendations to support sales and strategic decision making in the following key areas:
+* Sales Trends and Seasonality - Evaluation of overall performance through revenue and order volume
+* Product Performance - Analysis of sales trends and contribution across individual products
+* Global Reach - Regional breakdown of sales to assess market presence and opportunities
+* Loyalty Program Performance - Assessment of loyalty program's impact on customer retention and revenue
 
-This analysis focuses on sales data from 2019 to 2022. 
+This analysis is based on sales data from 2019 to 2022. 
   
 # Summary of Insights
 ## Overall Trends
@@ -64,7 +66,7 @@ Revenue and Order Volume Trends:
 * APAC contributes **12.14% of revenue and 13% of orders**.
 * LATAM accounts for the smallest share, with **6.73% of revenue and 5.96% of orders**.
 
-AOV Trends:
+Average Order Value (AOV) Trends:
 * **APAC has the highest AOV**, averaging **7.07% above the global regional average** across all four years.
 * **LATAM has the lowest AOV**, at **11.33% below the global average** overall, with significantly lower AOV in:
   * 2021: 14.74% below average
