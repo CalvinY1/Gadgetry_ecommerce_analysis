@@ -60,6 +60,8 @@ Notably, the **27 in Gaming Monitor and Apple Airpod Headphones rank in the top 
 * **66.41 of all orders**
 
 ## Regional Performance
+![Alt Text](images/Gadgetry_Map.png)
+
 Revenue and Order Volume Trends:
 * NA is the top performing region, contributing the largest share of both **revenue (51.69%) and order volume (51.8%)**.
 * EMEA follows with **29.45% of revenue and 29.24% of orders**.
