@@ -25,6 +25,8 @@ This analysis is based on sales data from 2019 to 2022.
   
 # Summary of Insights
 ## Overall Trends
+![Alt Text](images/Gadgetry_Revenue.png)
+
 Sales showed a strong upward trajectory through 2020, peaking in **December with 1.2M in monthly revenue**. The **most significant month-over-month (MoM) growth occurred in March 2020, with a 41.26% increase** in revenue, likely influced by pandemic-driven consumer behavior.
 
 Performance remained strong throughout **2020 and 2021, with both years more than doubling 2019 revenue**. However, **revenue declined in 2022, returning to 2019 levels by year-end**. **October 2022 marked the largest MoM decline, with a 39% decrease** compared to the previous month. While total revenue for 2022 still exceeded that of 2019, the last three months of the year recorded the lowest monthly revenues in the four-year period. 
@@ -75,6 +77,8 @@ Average Order Value (AOV) Trends:
   * 2022: 28.48% below average
 
 ## Loyalty Program Performance
+![Alt Text](images/Gadgetry_Loyalty.png)
+
 From 2019 to 2020, **non-loyalty members were the primary drivers of both revenue (80.16% of revenue) and order volume (75.32% of all orders)**. However, a major shift occurred starting in 2021:
 * 2021: Loyalty members surpassed non-loyalty members in both **revenue (52.74%) and order volume (54.49%)**.
 * 2022: Loyalty members continued to lead, contributing to **55.44% of revenue and 51.83% of orders**.
