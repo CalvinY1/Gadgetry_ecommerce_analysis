@@ -30,7 +30,7 @@ Sales showed a strong upward trajectory through 2020, peaking in **December with
 Performance remained strong throughout **2020 and 2021, with both years more than doubling 2019 revenue**. However, **revenue declined in 2022, returning to 2019 levels by year-end**. **October 2022 marked the largest MoM decline, with a 39% decrease** compared to the previous month. While total revenue for 2022 still exceeded that of 2019, the last three months of the year recorded the lowest monthly revenues in the four-year period. 
 
 ## Seasonal Sales Trends
-![Alt Text](MoM_Revenue_and_Revenue_Growth_Rate.png)
+![Alt Text](images/MoM_Revenue_and_Revenue_Growth_Rate.png)
 
 December consistently sees the strongest performance, with an average **29.17% increase in revenue** and **29.96% increase in order volume** compared to the previous month. 
 
