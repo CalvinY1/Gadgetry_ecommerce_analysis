@@ -132,7 +132,7 @@ It is recommended to:
 Despite recent dip, the loyalty program has shown promising growth since 2019 and is positively correlated with repeat purchases. 
 
 It is recommended to:
-* Continue supporting the program in the short term while conducitng a cost-benefit analysis to ensure it remains ROI-positive.
+* Continue supporting the program in the short term while conducting a cost-benefit analysis to ensure it remains ROI-positive.
 * Closely monitor performance trends to determine whether the recent downturn is temporary or indicative of a longer-term shift.
 
 ## Opportunities in APAC, reassess strategy in LATAM
